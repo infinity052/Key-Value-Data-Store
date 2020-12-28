@@ -1,5 +1,4 @@
 const { assert } = require("chai");
-const expect = require("chai");
 var storage = require("../Storage");
 storage = new storage();
 
